@@ -1,5 +1,3 @@
 <template>
-  <div>
-  dfgdfg
-  </div>
+  <NuxtPage />
 </template>
